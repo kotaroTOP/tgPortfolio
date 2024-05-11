@@ -11,6 +11,6 @@ Second, you need to start file "logic.py", it will create another file "portfoli
 Then past into file "config.py" in the space 'YourTelegramBotTokenHere' your telegram bot token and start file "main.py"
 Thats all!
 
-_______________________________________;
+_______________________________________
 
 ### Enjoy! 😸
